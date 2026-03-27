@@ -7,7 +7,7 @@
 <!-- 🔥 Glass Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
 </p>
 
 ---
@@ -18,6 +18,27 @@
   <a href="https://aum.sitrai.com/"><img src="https://img.shields.io/badge/Aum%20AI-Live%20Platform-00F7FF?style=for-the-badge&logo=vercel" /></a>
   <a href="https://www.sitrai.com/"><img src="https://img.shields.io/badge/SitrAi%20Studio-Launch%20Builder-111827?style=for-the-badge&logo=react" /></a>
 </p>
+
+---
+
+## 🏢 Company
+
+**Qubicsquare Technologies**
+AI & Web3-focused startup building scalable products at the intersection of intelligent systems and decentralized infrastructure.
+
+**What we do**
+
+* Build AI platforms (Aum AI) for agent creation, orchestration, and monetization
+* Enable no-code AI development (SitrAi Studio)
+* Develop infrastructure for AI workflows, model routing, and data systems
+* Integrate Web3 selectively for ownership, identity, and incentives
+
+**Focus Areas**
+
+* AI Agents & Automation
+* AI Infrastructure (routing, RAG, workflows)
+* Developer + No-code platforms
+* Hybrid Web2 + Web3 systems
 
 ---
 
