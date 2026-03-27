@@ -7,7 +7,7 @@
 <!-- 🔥 Glass Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;Scalable+AI+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
 </p>
 
 ---
@@ -32,6 +32,7 @@
 * AI Agent Marketplace
 * Credit-based billing system
 * High-scale execution engine (Redis + workers)
+* Optional Web3 layer for ownership & incentives
 
 ### 🔹 SitrAi Studio
 
@@ -41,6 +42,18 @@
 * RAG (files + knowledge base)
 * Tool chaining + automation
 * One-click agent deployment
+* Built for both Web2 & Web3 use-cases
+
+---
+
+## 🔗 Web3 Integration Layer (Selective)
+
+> Web3 is used only where it adds real value
+
+* Wallet-based identity (optional login)
+* Agent ownership & monetization via tokens/NFTs
+* On-chain attribution & transparency (select features)
+* Interoperability with EVM chains (Polygon / Avalanche)
 
 ---
 
@@ -67,18 +80,19 @@
 
 **Stage:** MVP + Live Platform
 **Category:** AI Infrastructure + Agent Ecosystem
-**Revenue Model:** Credit-based usage
+**Revenue Model:** Credit-based usage + future Web3 monetization
 
 ### 🚀 Why It Wins
 
 * AI Agents + Workflows + Marketplace in one ecosystem
 * Built for both developers and non-tech users
 * Highly scalable infra (queue-based execution)
+* Optional Web3 layer for ownership & monetization
 * Early positioning in AI agent economy
 
 ### 📈 Vision
 
-> Build the default platform where AI agents are created, deployed, and monetized.
+> Build the default platform where AI agents are created, deployed, and monetized across Web2 + Web3.
 
 ---
 
@@ -92,7 +106,8 @@
 
 ## 🧬 Philosophy
 
-> Scale intelligence, not complexity.
+> Build scalable AI systems.
+> Use Web3 only where it creates real value.
 
 ---
 
