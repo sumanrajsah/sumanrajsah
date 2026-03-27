@@ -7,7 +7,7 @@
 <!-- 🔥 Glass Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
 </p>
 
 ---
