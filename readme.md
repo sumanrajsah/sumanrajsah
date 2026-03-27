@@ -1,10 +1,14 @@
 <!-- 🔥 Ultra Premium Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c3c,100:2c5364&height=220&section=header&text=Suman%20Raj%20Sah&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c3c,100:2c5364&height=220&section=header&text=Suman%20Raj%20Sah%20%7C%20AlphaB&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- 🔥 Glass Typing Effect -->
+
+<p align="center">
+  <b style="font-size:18px;color:#00F7FF;">AlphaB — AI Systems Builder</b>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
@@ -22,6 +26,10 @@
 ---
 
 ## 🏢 Company
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AlphaB-Personal%20Brand-00F7FF?style=for-the-badge" />
+</p>
 
 **[Qubicsquare Technologies](https://www.qubicsquare.tech/)**
 AI & Web3-focused startup building scalable products at the intersection of intelligent systems and decentralized infrastructure.
@@ -94,6 +102,15 @@ AI & Web3-focused startup building scalable products at the intersection of inte
   <img src="https://github-readme-stats.vercel.app/api?username=sumanrajsah&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanrajsah&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🚀 Traction (Early)
+
+* ⚡ MVP built and deployed
+* 🧠 Multi-product ecosystem (Aum AI + SitrAi Studio)
+* 🔁 AI workflows + agent execution system ready
+* 🌐 Live platform with real users
 
 ---
 
