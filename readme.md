@@ -23,7 +23,7 @@
 
 ## 🏢 Company
 
-**[Qubicsquare Technologies](https://www.sitrai.com/)**
+**[Qubicsquare Technologies](https://www.qubicsquare.tech/)**
 AI & Web3-focused startup building scalable products at the intersection of intelligent systems and decentralized infrastructure.
 
 **What we do**
