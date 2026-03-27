@@ -7,7 +7,7 @@
 <!-- 🔥 Glass Typing Effect -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitRai+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;Scalable+AI+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;Scalable+AI+Infrastructure" />
 </p>
 
 ---
@@ -15,9 +15,8 @@
 ## 🚀 Live Product Demos
 
 <p align="center">
-  <a href="https://your-aum-ai-link.com"><img src="https://img.shields.io/badge/Aum%20AI-Live%20Platform-00F7FF?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://your-sitrai-link.com"><img src="https://img.shields.io/badge/SitRai%20Studio-Launch%20Builder-111827?style=for-the-badge&logo=react" /></a>
-  <a href="https://your-api-docs.com"><img src="https://img.shields.io/badge/API-Documentation-1c1c3c?style=for-the-badge&logo=postman" /></a>
+  <a href="https://aum.sitrai.com/"><img src="https://img.shields.io/badge/Aum%20AI-Live%20Platform-00F7FF?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.sitrai.com/"><img src="https://img.shields.io/badge/SitrAi%20Studio-Launch%20Builder-111827?style=for-the-badge&logo=react" /></a>
 </p>
 
 ---
@@ -34,7 +33,7 @@
 * Credit-based billing system
 * High-scale execution engine (Redis + workers)
 
-### 🔹 SitRai Studio
+### 🔹 SitrAi Studio
 
 > Visual AI Agent Builder
 
@@ -42,20 +41,6 @@
 * RAG (files + knowledge base)
 * Tool chaining + automation
 * One-click agent deployment
-
----
-
-## ⚡ Architecture (Production-Ready)
-
-```
-Client → API Gateway → AI Router → Workflow Engine
-                           ↓
-                        Queue (Redis)
-                           ↓
-                    Workers (Execution Layer)
-                           ↓
-                    MongoDB + Vector DB
-```
 
 ---
 
@@ -97,10 +82,10 @@ Client → API Gateway → AI Router → Workflow Engine
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanrajsah&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanrajsah&theme=tokyonight" />
 </p>
 
 ---
@@ -114,17 +99,7 @@ Client → API Gateway → AI Router → Workflow Engine
 ## 🌐 Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=vercel" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-
-<!-- 🔥 Snake Animation -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumanrajsah/sumanrajsah/output/github-contribution-grid-snake.svg" />
+  <a href="https://www.linkedin.com/in/suman-raj-sah/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
