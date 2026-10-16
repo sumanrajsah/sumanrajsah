@@ -1,164 +1,76 @@
-<!-- 🔥 Ultra Premium Animated Header -->
+<!-- GitHub profile: sumanrajsah -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1c1c3c,100:2c5364&height=220&section=header&text=Suman%20Raj%20Sah%20%7C%20AlphaB&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- 🔥 Glass Typing Effect -->
-
-<p align="center">
-  <b style="font-size:18px;color:#00F7FF;">AlphaB — AI Systems Builder</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1020,45:172554,100:0891B2&amp;height=200&amp;section=header&amp;text=Suman%20Raj%20Sah&amp;fontSize=44&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=AlphaB%20%7C%20Founder%20%26%20AI%20Systems%20Builder&amp;descAlignY=58&amp;descSize=17" width="100%" alt="Suman Raj Sah — AlphaB | Founder and AI Systems Builder" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Aum+AI+%7C+AI+Agent+Platform;SitrAi+Studio+%7C+No-code+AI+Builder;AI+Agents+%2B+Workflows+%2B+Marketplace;AI+Infra+%2B+Selective+Web3+Integration" />
+  <strong>Building useful AI. Turning ideas into products.</strong>
 </p>
 
----
-
-## 🚀 Live Product Demos
-
 <p align="center">
-  <a href="https://aum.sitrai.com/"><img src="https://img.shields.io/badge/Aum%20AI-Live%20Platform-00F7FF?style=for-the-badge&logo=vercel" /></a>
-  <a href="https://www.sitrai.com/"><img src="https://img.shields.io/badge/SitrAi%20Studio-Launch%20Builder-111827?style=for-the-badge&logo=react" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=1000&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=680&amp;height=45&amp;lines=Founder+%26+Builder;Building+OM+AI+under+SITRAI;Focused+on+Artificial+Intelligence;Preparing+for+Launch" width="680" alt="Founder and builder — building OM AI under SITRAI — preparing for launch" />
 </p>
 
----
-
-## 🏢 Company
-
 <p align="center">
-  <img src="https://img.shields.io/badge/AlphaB-Personal%20Brand-00F7FF?style=for-the-badge" />
+  <a href="https://www.sitrai.com/om-ai"><img src="https://img.shields.io/badge/OM_AI-Coming_Soon-0891B2?style=for-the-badge" alt="OM AI — coming soon" /></a>
+  <a href="https://www.sitrai.com/"><img src="https://img.shields.io/badge/SITRAI-172554?style=for-the-badge" alt="SITRAI" /></a>
+  <a href="https://www.qubicsquare.tech/"><img src="https://img.shields.io/badge/Qubicsquare-0F172A?style=for-the-badge" alt="Qubicsquare Technologies" /></a>
+  <a href="https://www.linkedin.com/in/suman-raj-sah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 </p>
 
-**[Qubicsquare Technologies](https://www.qubicsquare.tech/)**
-AI & Web3-focused startup building scalable products at the intersection of intelligent systems and decentralized infrastructure.
-
-**What we do**
-
-* Build AI platforms (Aum AI) for agent creation, orchestration, and monetization
-* Enable no-code AI development (SitrAi Studio)
-* Develop infrastructure for AI workflows, model routing, and data systems
-* Integrate Web3 selectively for ownership, identity, and incentives
-
-**Focus Areas**
-
-* AI Agents & Automation
-* AI Infrastructure (routing, RAG, workflows)
-* Developer + No-code platforms
-* Hybrid Web2 + Web3 systems
-
----
-
-## 🧠 Platform Overview
-
-### 🔹 Aum AI
-
-> AI Agent Operating System
-
-* Multi-model routing (OpenRouter + custom models)
-* Tool calling + workflow orchestration
-* AI Agent Marketplace
-* Credit-based billing system
-* High-scale execution engine (Redis + workers)
-* Optional Web3 layer for ownership & incentives
-
-### 🔹 SitrAi Studio
-
-> Visual AI Agent Builder
-
-* Drag & drop workflow UI
-* RAG (files + knowledge base)
-* Tool chaining + automation
-* One-click agent deployment
-* Built for both Web2 & Web3 use-cases
-
----
-
-## 🔗 Web3 Integration Layer (Selective)
-
-> Web3 is used only where it adds real value
-
-* Wallet-based identity (optional login)
-* Agent ownership & monetization via tokens/NFTs
-* On-chain attribution & transparency (select features)
-* Interoperability with EVM chains (Polygon / Avalanche)
-
----
-
-## 📊 Real-Time Metrics
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanrajsah&label=Views&color=00F7FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/sumanrajsah?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/sumanrajsah?label=Total%20Stars&style=social" />
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#om-ai">OM AI</a> &nbsp;·&nbsp;
+  <a href="#github-activity">GitHub</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
----
+About
+I'm Suman Raj Sah, also known as AlphaB — Founder & CEO of Qubicsquare Technologies.
+I'm building OM AI under SITRAI, our customer-facing AI brand. I care about creating useful technology and turning ambitious ideas into products people value.
+- Building: Qubicsquare and SITRAI.
+- Current focus: preparing OM AI for launch.
+- Studying: B.Tech Computer Science & Engineering, with a focus on Big Data and AI, at Lovely Professional University.
+- Interested in: artificial intelligence, product development, and entrepreneurship.
+The company, the brand, the product
+	Role
+Qubicsquare Technologies	Parent company focused on artificial intelligence.
+SITRAI	Our customer-facing AI brand.
+OM AI	Our upcoming flagship AI product.
 
-## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanrajsah&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanrajsah&theme=tokyonight&hide_border=true" />
+OM AI
+Something new is taking shape.
+<p>
+  <img src="https://img.shields.io/badge/Stage-Prelaunch-0E7490?style=flat-square" alt="Stage: prelaunch" />
 </p>
 
----
-
-## 🚀 Traction (Early)
-
-* ⚡ MVP built and deployed
-* 🧠 Multi-product ecosystem (Aum AI + SitrAi Studio)
-* 🔁 AI workflows + agent execution system ready
-* 🌐 Live platform with real users
-
----
-
-## 💼 Investor Snapshot
-
-**Stage:** MVP + Live Platform
-**Category:** AI Infrastructure + Agent Ecosystem
-**Revenue Model:** Credit-based usage + future Web3 monetization
-
-### 🚀 Why It Wins
-
-* AI Agents + Workflows + Marketplace in one ecosystem
-* Built for both developers and non-tech users
-* Highly scalable infra (queue-based execution)
-* Optional Web3 layer for ownership & monetization
-* Early positioning in AI agent economy
-
-### 📈 Vision
-
-> Build the default platform where AI agents are created, deployed, and monetized across Web2 + Web3.
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanrajsah&theme=tokyonight" />
+We're preparing OM AI for launch under SITRAI. More details will be shared at launch.
+Follow SITRAI for official updates →
+GitHub activity
+<p>
+  <a href="https://github.com/sumanrajsah?tab=followers"><img src="https://img.shields.io/github/followers/sumanrajsah?label=Followers&amp;style=flat-square&amp;color=0891B2" alt="GitHub followers" /></a>
+  <a href="https://github.com/sumanrajsah?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-172554?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
----
+<details>
+<summary><strong>View contribution overview</strong></summary>
 
-## 🧬 Philosophy
-
-> Build scalable AI systems.
-> Use Web3 only where it creates real value.
-
----
-
-## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suman-raj-sah/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/sumanrajsah">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumanrajsah&amp;theme=tokyonight" width="100%" alt="Suman Raj Sah's GitHub contribution overview" />
+  </a>
 </p>
 
----
+</details>
 
-<!-- 🔥 Footer -->
+Connect
+I'm interested in connecting with builders, founders, and people working on meaningful ideas in AI.
+LinkedIn · SITRAI · Qubicsquare
+Build useful systems. Make complex work easier. Keep people in control.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891B2,55:172554,100:0B1020&amp;height=100&amp;section=footer" width="100%" alt="" />
 </p>
